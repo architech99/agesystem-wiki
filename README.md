@@ -8,26 +8,6 @@ Please look around! We are working hard on bringing you all the Fantasy AGE user
 
 - [Adapting & Creating Monsters for Fantasy AGE](http://greenronin.com/blog/2015/10/05/the-care-and-feeding-of-monster-design/)  by Jack Norris
 
-### Markdown
+### Help
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- [How to Format Pages](/help/markdown.md)
