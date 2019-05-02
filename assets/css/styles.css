@@ -2,7 +2,6 @@
 ---
 
 @import "{{ site.theme }}";
-
 .img-fluid
 {
   max-width: 100%;
@@ -11,7 +10,6 @@
 {
   text-align: center;
 }
-
 header
 {
   ul
