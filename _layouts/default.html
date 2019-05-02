@@ -16,15 +16,14 @@
       <header>
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Fantasy AGE" />
+        {% else %}
+          <h1>Fantasy AGE Wiki</h1>
         {% endif %}
-
-        <h1>Fantasy AGE Wiki</h1>
-        
-        <p><small><a href="{{ "/" | absolute_url }}">Home</a></small></p>
 
         <h2>Sections</h3>
         <ul>
-          <li><a href="/races">Races</a></li>
+          <li><a href="{{ "/" | absolute_url }}">Home</a></li>
+          <li><a href="{{ "races" | absolute_url }}">Races</a></li>
         </ul>
       </header>
       <section>
