@@ -2,3 +2,6 @@ theme: jekyll-theme-minimal
 plugins:
   - jekyll-mentions
   - jekyll-sitemap
+
+logo: /assets/fantasy-age-logo-optimized.png
+google_analytics: ~
