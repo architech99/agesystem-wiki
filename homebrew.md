@@ -1,0 +1,16 @@
+# Homebrew Rules
+
+- [Alternate Health/Mana rules](/homebrew/health-mana-alternate)
+- [Arcane Specialties](/homebrew/arcane-specialties)
+- [Becoming Undead](/homebrew/becoming-undead)
+- [Build-Your-Own-Class Guide](/homebrew/build-your-own-class)
+- [Conditions](/homebrew/conditions)
+- [Crafting](/homebrew/crafting)
+- [Divine Intervention](/homebrew/divine-intervention)
+- [Injuries](/homebrew/injuries)
+- [Kingdom Events](/homebrew/kingdom-events)
+- [Lycanthropy](/homebrew/lycanthropy)
+- [Poison Use](/homebrew/poison-use)
+- [Skill Tests](/homebrew/skill-tests)
+- [Weapon/Armor Materials](/homebrew/weapon-armor-materials)
+- [Weapon Qualities](/homebrew/weapon-qualities)
