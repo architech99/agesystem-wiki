@@ -13,6 +13,7 @@ Starting Health: 20 + Constitution + 1D6
 Weapon Groups: Brawling and Staves plus one based on deity
 
 ### Level 1
+
 Ability | Description / Modifier
 ------- | ----------------------
 **Holy Lance** | Acts like Arcane Blast
