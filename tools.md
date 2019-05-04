@@ -10,4 +10,4 @@ This page is dedicated to all the PDFs, links, or other tools that we find are h
 
 - [20 Things to Find in...](/tools/20-things-to-find)
 - [Items PC's Find When Looting](/tools/item-loot)
-- [Things For a GM to Way When...](/tools/gm-responses)
+- [Things For a GM to Say When...](/tools/gm-responses)
