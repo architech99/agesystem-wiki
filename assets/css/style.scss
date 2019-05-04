@@ -2,7 +2,6 @@
 ---
 
 @import "{{ site.theme }}";
-@import "_layout.scss";
 
 .img-fluid
 {
@@ -13,4 +12,4 @@
   text-align: center;
 }
 
-@import "layout";
+@import "_layout.scss";
