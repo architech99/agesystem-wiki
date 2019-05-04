@@ -13,12 +13,12 @@ Starting Health: 20 + Constitution + 1D6
 Weapon Groups: Brawling and Staves plus one based on deity
 
 ### Level 1
-**Holy Lance** | Acts like Arcane Blast
-**Holy Symbol** | Acts as Arcane Device but must be a deity’s symbol
-**Magic Training** | the same
-**Magic Points** | 10+Willpower+1D6
-**Zeal** | Acts like Spellpower (10+Willpower+Arcana Focus)
-**Talents** | Chirurgy Plus one of the following: Linguistics, Lore, or Alchemy
+- **Holy Lance** | Acts like Arcane Blast
+- **Holy Symbol** | Acts as Arcane Device but must be a deity’s symbol
+- **Magic Training** | the same
+- **Magic Points** | 10+Willpower+1D6
+- **Zeal** | Acts like Spellpower (10+Willpower+Arcana Focus)
+- **Talents** | Chirurgy Plus one of the following: Linguistics, Lore, or Alchemy
 
 ### Changes
 
@@ -82,4 +82,4 @@ Pick 2: Linguistics, Lore, Alchemy, or Unarmed Style
 
 ### Level 4
 
-Magic Burst: by Spending 3 Magic Points you expend that magical energy in a 3 yard radius. Any enemy within that area must make a Dexterity (Acrobatics) Test vs. your Spellpower or take 3 points penetrating damage and be knocked prone. It takes a toll on you however and you cannot cast a spell on the same turn you activate this power﻿.
+**Magic Burst:** by Spending 3 Magic Points you expend that magical energy in a 3 yard radius. Any enemy within that area must make a Dexterity (Acrobatics) Test vs. your Spellpower or take 3 points penetrating damage and be knocked prone. It takes a toll on you however and you cannot cast a spell on the same turn you activate this power﻿.
