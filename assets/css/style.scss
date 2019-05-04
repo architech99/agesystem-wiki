@@ -2,6 +2,8 @@
 ---
 
 @import "{{ site.theme }}";
+@import "layout";
+
 .img-fluid
 {
   max-width: 100%;
@@ -10,13 +12,5 @@
 {
   text-align: center;
 }
-header
-{
-  ul
-  {
-    a
-    {
-      font-size: initial;
-    }
-  }
-}
+
+@import "layout";
