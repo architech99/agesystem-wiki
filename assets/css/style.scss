@@ -12,4 +12,29 @@
   text-align: center;
 }
 
-@import "_layout.scss";
+header
+{
+  ul
+  {
+    &.main-menu
+    {
+      a
+      {
+        font-size: initial;
+      }
+
+      li
+      {
+        display: block;
+        border-radius: initial;
+        border: none;
+        border-bottom: 1px solid #ccc;
+      }
+      
+      li:last-child
+      {
+        border-bottom: none;
+      }
+    }
+  }
+}
