@@ -1,6 +1,6 @@
 ## Arcanas
 
-### @ScreamInVain Expanded Arcana
+### ScreamInVain's Expanded Arcana
 
 - [Air](/arcanas/air)
 - [Divination](/arcanas/divination)
