@@ -13,12 +13,14 @@ Starting Health: 20 + Constitution + 1D6
 Weapon Groups: Brawling and Staves plus one based on deity
 
 ### Level 1
-- **Holy Lance** | Acts like Arcane Blast
-- **Holy Symbol** | Acts as Arcane Device but must be a deity’s symbol
-- **Magic Training** | the same
-- **Magic Points** | 10+Willpower+1D6
-- **Zeal** | Acts like Spellpower (10+Willpower+Arcana Focus)
-- **Talents** | Chirurgy Plus one of the following: Linguistics, Lore, or Alchemy
+Ability | Description / Modifier
+------- | ----------------------
+**Holy Lance** | Acts like Arcane Blast
+**Holy Symbol** | Acts as Arcane Device but must be a deity’s symbol
+**Magic Training** | the same
+**Magic Points** | 10+Willpower+1D6
+**Zeal** | Acts like Spellpower (10+Willpower+Arcana Focus)
+**Talents** | Chirurgy Plus one of the following: Linguistics, Lore, or Alchemy
 
 ### Changes
 
